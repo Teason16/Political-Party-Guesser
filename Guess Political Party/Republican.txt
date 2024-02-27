@@ -1,0 +1,5 @@
+[B, B, B, B, B, B, B, B, B, B, B, B, B, B]
+[A, B, C, D, B, C, B, A, D, B, A, A, B, B]
+[D, D, D, D, A, C, B, C, D, A, B, B, A, B]
+[B, C, B, D, B, C, D, B, C, B, A, B, B, B]
+[B, B, C, B, D, A, B, C, A, B, A, B, B, B]
